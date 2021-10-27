@@ -15,7 +15,10 @@
 </div>
  
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aneesh02&show_icons=true&hide_border=True" alt="Aneesh02" /></p></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aneesh02&show_icons=true&hide_border=True" alt="Aneesh02" /></p>
+
+  ![](https://komarev.com/ghpvc/?username=Aneesh02&color=008080&style=plastic)
+</div>
 
 
 
