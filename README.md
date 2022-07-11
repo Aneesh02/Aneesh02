@@ -1,4 +1,4 @@
-# <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I’m Aneesh Tickoo</p>
+# <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" > Hey there, I’m Aneesh Tickoo</p>
 
 <p align = "center">
 📫 How to reach me aneeshtickoo2002@gmail.com
