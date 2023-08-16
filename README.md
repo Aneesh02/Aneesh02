@@ -6,8 +6,9 @@
 
 <p align="left">
 <div align="center">
-
-<a href="https://www.linkedin.com/in/aneesh-tickoo-994145204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aneesh-tickoo-994145204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aneeshtickoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aneesh-tickoo-994145204/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aneesh.tickoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aneesh" height="30" width="40" /></a>
+<a href="https://leetcode.com/shady7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shady7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aneesh_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aneesh_2002" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aneeshtickoo2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aneeshtickoo2002" height="30" width="40" /></a>
 
